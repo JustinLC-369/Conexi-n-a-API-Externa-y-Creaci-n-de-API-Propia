@@ -78,9 +78,7 @@ Esto levantará la API en:
 - El frontend se encuentra en la carpeta Frontend y puedes abrir index.html directamente en el navegador.
 
 
-## Autor
-
-Justin Lopez
-Carlos Sandoval
-Andres Torres
-Julio 2025
+## Autores
+- Justin Lopez
+- Carlos Sandoval
+- Andres Torres
