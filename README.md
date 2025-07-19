@@ -2,7 +2,7 @@
 
 Este proyecto contiene una API desarrollada con FastAPI (Python) para gestionar información de perros y una interfaz web sencilla como frontend.
 
-## Estructura del Proyecto
+##Estructura del Proyecto
 
 
 ```text
@@ -21,7 +21,7 @@ Este proyecto contiene una API desarrollada con FastAPI (Python) para gestionar 
 │   └── style.css
 └── venv/
 
-## Tecnologías usadas
+##Tecnologías usadas
 
 - *Python 3.10+*
 - *FastAPI*
@@ -29,40 +29,40 @@ Este proyecto contiene una API desarrollada con FastAPI (Python) para gestionar 
 - *Uvicorn*
 - *JavaScript, HTML, CSS*
 
-## Requisitos previos
+##Requisitos previos
 
 - Tener Python 3.10 o superior instalado.
 - (Opcional) Tener Git para clonar el repositorio.
 
-## Instalación y ejecución
+##Instalación y ejecución
 
-### 1. Clona el repositorio o descarga los archivos
+###1. Clona el repositorio o descarga los archivos
 
 bash
 https://github.com/JustinLC-369/Trabajo-Grupal--3.git
 
 
-### 2. Crea y activa el entorno virtual
+###2. Crea y activa el entorno virtual
 
-#### En Mac/Linux:
+####En Mac/Linux:
 bash
 python3 -m venv venv
 source venv/bin/activate
 
 
-#### En Windows:
+####En Windows:
 bash
 python -m venv venv
 venv\Scripts\activate
 
 
-### 3. Instala las dependencias
+###3. Instala las dependencias
 
 bash
 pip install -r Backend/requirements.txt
 
 
-### 4. Ejecuta el servidor FastAPI
+###4. Ejecuta el servidor FastAPI
 
 Desde la carpeta raíz del proyecto (donde estás), corre:
 
