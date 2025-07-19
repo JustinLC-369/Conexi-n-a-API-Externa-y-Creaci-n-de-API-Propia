@@ -6,6 +6,7 @@ Este proyecto contiene una API desarrollada con FastAPI (Python) para gestionar 
 ## Estructura del Proyecto
 
 
+```text
 .
 ├── Backend
 │   ├── app.py
@@ -20,7 +21,6 @@ Este proyecto contiene una API desarrollada con FastAPI (Python) para gestionar 
 │   ├── main.js
 │   └── style.css
 └── venv/
-
 
 ## Tecnologías usadas
 
