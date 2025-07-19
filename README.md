@@ -1,4 +1,3 @@
-# Conexi-n-a-API-Externa-y-Creaci-n-de-API-Propia
 # Proyecto: API de Perros 🐶
 
 Este proyecto contiene una API desarrollada con FastAPI (Python) para gestionar información de perros y una interfaz web sencilla como frontend.
